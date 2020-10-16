@@ -71,7 +71,7 @@
       "category_id": 4,
       "image": "https://picsum.photos/id/338/200/200",
       "author": "Sergi"
-    },
+    }
   ],
   "categories": [
     { "id": 1, "name": "Coding" },
